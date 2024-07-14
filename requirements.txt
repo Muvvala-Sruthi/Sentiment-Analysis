@@ -1,0 +1,13 @@
+numpy
+matplotlib
+seaborn
+scikit-learn
+wordcloud
+nltk
+xgboost
+streamlit
+flask
+flask-cors
+pandas
+requests
+pickle-mixin
